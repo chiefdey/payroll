@@ -1,0 +1,15 @@
+#calculate {
+background-color:darkgoldenrod;
+}
+body{
+    background-image:url('bgpic') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{color: antiquewhite;}
+p{color:aqua;font-size:x-large;}
+table{text-align: center; margin-left: 200px; margin-top: 30px;}
+.container{text-align: center;}
+#b_salary{margin-right: 50px;}
+#benefitss{margin-right: 30px;}
+label{color: rgb(7, 94, 97);font-weight: bolder;}
